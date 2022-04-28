@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin2</string>
+    <string name="submit">Submit</string>
+    <string name="random">random</string>
+    <string name="todo">TODO</string>
+    <string name="url">вставьте ссылку:</string>
+</resources>
